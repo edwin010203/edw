@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Document</title>
+	<link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+	<div id="titre">
+			<h1><i>Je vais vous manquer de telle manière vous pourez même plus respirer</i></h1>
+			<P><b> que c'est dommage <br>
+			</b>je suis en route</P><br>
+
+		<div id="ed">
+			<p>Edwin</p><br>
+			<div>
+<a href="http://www.caddylcook.com/specialite&amp;evenement" class="bleue btn btn-block btn-primary text-uppercase">réserver Un cuisinier</a>
+			</div>
+		</div>
+	</div>
+<img src="http://pngimg.com/download/956" alt="">
+</body>
+</html>
